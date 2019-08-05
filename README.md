@@ -1,7 +1,7 @@
 # Material-Form-Android
 Android Form using Google Material Guidelines
 
-Step 1 - Edit the app level [build.gradle] file (app/build.gradle)
+Step 1 - Edit the app level ![build.gradle] (app/build.gradle) file
 
 implementation 'com.android.support:design:28.0.0'    (For older android sdk versions)
 
