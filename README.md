@@ -11,4 +11,4 @@ implementation 'com.google.android.material:material:1.0.0'       (For Newer And
 
 
 
-Step 2 - Then, Copy and paste the the layouts and java code for both activities.
+Step 2 - Then, Copy and paste the layouts and java code for both activities.
