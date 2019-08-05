@@ -11,4 +11,4 @@ implementation 'com.google.android.material:material:1.0.0'       (For Newer And
 
 
 
-Step 2 - Then, Copy and paste the [!layouts](app/src/main/res/layout/) and ![java code](app/src/main/java/com/example/lab) for both activities.
+Step 2 - Then, Copy and paste the ![layouts](app/src/main/res/layout/) and ![java code](app/src/main/java/com/example/lab) for both activities.
